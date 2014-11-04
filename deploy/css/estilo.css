@@ -1,0 +1,33 @@
+/*
+ * estilo originalmente em sass
+*/
+/* line 9, ../../dev/css/sass/estilo.scss */
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #333;
+}
+
+/* line 15, ../../dev/css/sass/estilo.scss */
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: disc;
+}
+/* line 21, ../../dev/css/sass/estilo.scss */
+nav li {
+  display: inline-block;
+}
+/* line 23, ../../dev/css/sass/estilo.scss */
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+}
+
+/* line 38, ../../dev/css/sass/estilo.scss */
+.box {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  border-radius: 10px;
+}

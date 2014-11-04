@@ -1,0 +1,6 @@
+bower_components/
+node_modules/
+dev/img/
+deploy/img/
+temp/
+.sass-cache/
